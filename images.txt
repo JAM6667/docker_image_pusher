@@ -1,6 +1,6 @@
 nginx
 mysql
 ragflow
-docker.io/library/redis:7.0.14
-docker.io/library/elasticsearch:8.6.2
+redis:7.0.14
+elasticsearch:8.6.2
 
